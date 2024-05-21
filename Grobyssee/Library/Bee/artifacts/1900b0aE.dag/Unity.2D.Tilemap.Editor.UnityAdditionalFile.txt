@@ -1,1 +1,5 @@
+<<<<<<< Updated upstream
 D:\OneDrive\data\programming\Github\Gobyssee\Grobyssee
+=======
+C:\Users\annes\Documents\GitHub\Gobyssee\Grobyssee
+>>>>>>> Stashed changes

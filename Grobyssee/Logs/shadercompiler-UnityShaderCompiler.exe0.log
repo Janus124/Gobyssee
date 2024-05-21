@@ -1,4 +1,7 @@
-Base path: 'D:/OneDrive/data/programming/Unity/Version/2022.3.22f1/Editor/Data', plugins path 'D:/OneDrive/data/programming/Unity/Version/2022.3.22f1/Editor/Data/PlaybackEngines'
+Base path: 'C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data', plugins path 'C:/Program Files/Unity/Hub/Editor/2022.3.22f1/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
 
+<<<<<<< Updated upstream
 Cmd: shutdown
+=======
+>>>>>>> Stashed changes
